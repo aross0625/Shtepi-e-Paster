@@ -1,5 +1,2 @@
 # Shtepi-e-Paster
-Cleaning Application for Android
-Designed for managing business services for a local cleaning company
-Deployed on Google Play Store
-Source code owned and maintained by Alexander Ross
+Android application designed for managing business services for a local cleaning company in Tirana, Albania.  Currenntly deployed on Google Play Store in Albania and Germany.  Source code owned and maintained by Alexander Ross.
