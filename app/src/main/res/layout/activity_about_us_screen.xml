@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AboutUsScreen"
+    android:background="@drawable/background">
+
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:layout_marginStart="119dp"
+        android:layout_marginTop="38dp"
+        android:layout_marginEnd="245dp"
+        android:layout_weight="1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <RelativeLayout
+            android:layout_width="154dp"
+            android:layout_height="65dp"
+            tools:layout_editor_absoluteX="103dp"
+            tools:layout_editor_absoluteY="350dp">
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="153dp"
+                android:layout_height="64dp"
+                android:text=" About Us"
+                android:textColor="#020202"
+                android:textSize="36sp"
+                android:textStyle="italic"
+                android:visibility="visible"
+                tools:layout_editor_absoluteX="126dp"
+                tools:layout_editor_absoluteY="98dp" />
+
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:layout_marginStart="75dp"
+        android:layout_marginTop="55dp"
+        android:layout_marginEnd="140dp"
+        android:layout_weight="1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/cardView">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/relativeLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:layout_editor_absoluteX="103dp"
+            tools:layout_editor_absoluteY="350dp">
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="282dp"
+                android:layout_height="64dp"
+                android:layout_marginStart="26dp"
+                android:layout_marginEnd="28dp"
+                android:fontFamily="sans-serif-condensed-light"
+                android:text="Tani pervec pizzes dhe blerjeve online ju mund te porosisni edhe pastrimin tuaj sherbimi jone bazohet ne cilesi, korrektesi dhe siguri."
+                android:textAlignment="center"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+                android:textColor="#000000"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textView3" />
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="283dp"
+                android:layout_height="66dp"
+                android:layout_marginStart="26dp"
+                android:layout_marginEnd="26dp"
+                android:fontFamily="sans-serif-condensed-light"
+                android:text="Bazuar ne eksperiencen e krijuar me ju,ne jemi te lumtur qe sherbimin e pastrimit ta ngrejme ne nje tjeter nivel."
+                android:textAlignment="center"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+                android:textColor="#000000"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textView7" />
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="280dp"
+                android:layout_height="108dp"
+                android:layout_marginStart="26dp"
+                android:layout_marginTop="3dp"
+                android:layout_marginEnd="27dp"
+                android:fontFamily="sans-serif-condensed-light"
+                android:text="“Shtepi e paster” i vjen ne ndihme te gjitha nenave, amvisave, individeve dhe bizneseve te ndryshem te cilen kane nevoje per nje suport ne mirmbajtjen e ambjenteve te tyre. Gama jone e sherbimit perfshin pastrime periodike,pastrime gjenerale ( me themel ) si dhe pastrime te thella pas punimeve."
+                android:textAlignment="center"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+                android:textColor="#000000"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textView4" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="280dp"
+                android:layout_height="73dp"
+                android:layout_marginStart="26dp"
+                android:layout_marginTop="25dp"
+                android:layout_marginEnd="28dp"
+                android:fontFamily="sans-serif-condensed-light"
+                android:text="Ne jemi nje grup profesionistesh ne fushen e pastrimit.  Vizioni yne eshte te lehtesojme sadopak jeten tuaj duke kursyer kohen dhe lodhjen tuaj si dhe duke ju dhene kenaqesi ne fushen e pastrimit."
+                android:textAlignment="center"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+                android:textColor="#000000"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="283dp"
+                android:layout_height="78dp"
+                android:layout_marginStart="26dp"
+                android:layout_marginEnd="28dp"
+                android:fontFamily="sans-serif-condensed-light"
+                android:text="Gjate periudhes se aktiviteteve te ngjeshura shpesh here kur arrijme ne shtepi e gjejme veten super te lodhur. Pastrimi eshte gjeja e fundit qe do donim te benim sidomos ne ditet e ngarkuara me pune."
+                android:textAlignment="center"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+                android:textColor="#000000"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textView5" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.cardview.widget.CardView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

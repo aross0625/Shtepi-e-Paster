@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Cleaning Company App</string>
+    <string name="submit">Submit</string>
+    <string name="phone">Phone</string>
+    <string name="cleaning_company">Cleaning Company</string>
+    <string name="book_an_appointment">Book an Appointment</string>
+    <string name="address">Address</string>
+    <string name="date">Date</string>
+    <string name="name">Name</string>
+    <string name="time">Time</string>
+    <string name="pay_by_cash">Pay By Cash</string>
+    <string name="button">Button</string>
+    <string name="shtepi_e_paster">Shtepi e Paster</string>
+    <string name="about_us">About us</string>
+    <string name="services">Services</string>
+    <string name="price_list">Price List</string>
+    <string name="todo">TODO</string>
+    <string name="contact_us">Contact us</string>
+    <string name="faq">FAQ</string>
+    <string name="appointments">Appointments</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+    <string name="todo5">TODO</string>
+    <string name="the_founding_vision_of_shtepi_e_paster_is_to_provide_high_quality_cleaning_services_to_those_effected_by_the_covid_19_pandemic_our_commitment_is_to_provide_clients_with_top_tier_cleaning_services_at_affordable_prices">The founding vision of Shtepi e Paster is to provide high-quality cleaning services to those effected by the Covid-19 pandemic. Our commitment is to provide clients with top-tier cleaning services at affordable prices.</string>
+
+    <string name="question1">Cili eshte pastrimi bazik qe ne ofrojme?</string>
+    <string name="question2">Po pastrimi gjeneral?</string>
+    <string name="question3">Perse duhet te marr nje sherbim pastrimi?</string>
+    <string name="question4">Si mund te rezervoj pastrimin tim?</string>
+    <string name="thank_you_we_will_reach_out_to_you_via_whatsapp_shortly">Thank you! We will reach out to you via WhatsApp shortly!</string>
+    <string name="tani_pervec_pizzes_she_blerjeve_online_ju_mund_te_porosisni_edhe_pastrimin_tuan_periodik_online">Tani pervec pizzes she blerjeve online ju mund te porosisni edhe pastrimin tuan periodik online.</string>
+    <string name="jlkfda">About Us</string>
+    <string name="bazuar_ne_eksperiencen_e_krijuar_me_ju_ne_jemi_te_lumtur_qe_sherbimin_e_pastrimit_ta_ngrejme_ne_nje_tjeter_nivel">Bazuar ne eksperiencen e krijuar me ju,ne jemi te lumtur qe sherbimin e pastrimit ta ngrejme ne nje tjeter nivel.</string>
+    <string name="shtepi_e_paster_i_vjen_ne_ndihme_te_gjitha_nenave_amvisave_individeve_bizneseve_te_ndryshem_te_cilen_kane_nevoje_per_nje_suport_ne_mirmbajtjen_e_ambjenteve_te_tyre_gama_jone_e_sherbimit_perfshin_pastrime_periodike_pastrime_gjenerale_me_themel_si_dhe_pastrime_te_thella_pas_punimeve">“Shtepi e paster” I vjen ne ndihme te gjitha nenave,amvisave,individeve,bizneseve te ndryshem te cilen kane nevoje per nje suport ne mirmbajtjen e ambjenteve te tyre. Gama jone e sherbimit perfshin pastrime periodike,pastrime gjenerale ( me themel ) si dhe pastrime te thella pas punimeve.</string>
+    <string name="ne_jemi_nje_grup_profesionistesh_ne_fushene_e_pastrimit_vizioni_yne_eshte_te_lehtesojme_sadopak_jeten_tuaj_duke_kursyer_kohen_dhe_lodhjen_tuaj_si_dhe_duke_ju_dhene_kenaqesi_ne_fushen_e_pastrimit">Ne jemi nje grup profesionistesh ne fushene e pastrimit. Vizioni yne eshte te lehtesojme sadopak jeten tuaj duke kursyer kohen dhe lodhjen tuaj si dhe duke ju dhene kenaqesi ne fushen e pastrimit.</string>
+    <string name="gjate_periudhes_se_aktiviteteve_te_ngjeshura_shpesh_here_kur_arrijme_ne_shtepi_e_gjejme_veten_super_te_lodhur_pastrimi_eshte_gjeja_e_fundit_qe_do_donim_te_benim_sidomos_ne_ditet_e_ngarkuara_me_pune_sherbimi_jone_bazohet_ne_cilesi_korrektesi_dhe_siguri">Gjate periudhes se aktiviteteve te ngjeshura shpesh here kur arrijme ne shtepi e gjejme veten super te lodhur. Pastrimi eshte gjeja e fundit qe do donim te benim sidomos ne ditet e ngarkuara me pune. Sherbimi jone bazohet ne cilesi, korrektesi dhe siguri.</string>
+    <string name="about_uss"> About Us</string>
+    <string name="submit2">Submit</string>
+    <string name="shtepi_e_paster2">Shtepi e Paster</string>
+    <string name="tarifa_2000_2500_leke">Tarifa 2000-2500 leke.</string>
+    <string name="service_6_7_pastrim_i_dyshekeve"><![CDATA[Service 6 & 7: Pastrim i dyshekeve]]></string>
+
+    <string-array name="answer1">
+        <item> Pastrimi bazik,ka te beje me mirmbajtjen e nje ambjenti zyre apartament banimi, klinike. Mirmbajtja këshillohet te kryhet 3/4 here ne muaj dhe sherben per te mbajtur rrregullin dhe eleminimin e rremujes neper ambjentet tuaja.  Ajo perfshin larjen e te gjitha siperfaqeve,me perparesi siperfaqet delikate si guzhina dhe tualetet.</item>
+    </string-array>
+    <string-array name="answer2">
+        <item> Atehere ne pastrimin gjeneral ne perfshijme pastrimin e çdo siperfaqe te shkelur njesoj si ai bazik,por edhe larjen e xhamave,grilave, mobiljeve e shume gjera te tjera. Ne kete pastrim angazhohen disa njerez dhe puna mund te shkoj nga 1 deri ne disa site,kjo ne varesi te siperfaqes dhe kerkesave. Eshte I nevojshëm kur futemi ne nje shtepi te re,keni lyer apo keni bere punime ne shtepi etj. Gjithmone ne keto raste nje agjent I joni vlerson ambjentet perpara pastrimit. </item>
+    </string-array>
+    <string-array name="answer3">
+        <item> Une e arrij ta bej vete shume mire nese jeni me kete mendje do ju luteshim te ishit pak me te sinqerte me veten.  Punen e pastrimit e sigurt qe ju e beni vete kete nuk e diskutojme fare.  Por edhe ne kemi nje pyetje, cila ka qene hera e fundit kur keni pastruar me themel dhe keni qene optimist per kete?  Ne ditet e sotme angazhimet e medha na bejne qe kohen ta kemi shume te kufizuar.  Nese e mendojme me gjate nje darke me miqte ju kushton njesoj me nje pastrim te shtepise.  Tek e fundit njesoj si ju do donut te mbanit veten tuaj ashtu edhe shtepia ka nevoje te “mbahet”.  Keto edhe 100 arsye te tjera jane perse-ja e te kerkuarit nje sherbim pastrimi. </item>
+    </string-array>
+    <string-array name="answer4">
+        <item> Ne jemi perpjekur ta thjeshtezojme sherbimin tone,ne menyre qe pastrimi te jete nje eksperience pozitive per ju.  Ne fillim ploteso te dhenat e ambjentit qe doni te pastroni pra siperfaqen e ambjentit.  Vendos pastaj tipin e pastrimit qe ju kerkoni te behet bazik apo general.  Na tregoni kohen se kur kerkoni ta merrni kete sherbim ( ne do te jemi te lumtur tju sherbejme ne kohen tuaj te preferuar ne momentin e pare qe na krijohet mundesia,per kete ju sugjerojme qe kerkesen tuaj mos ta lini per momentin e fundit).  Dergoni kerkesen tuaj per nje konfirmim,nje nga agjente tane do tju pergjigjet menjeher sapo kerkesa juaj te procesohet. </item>
+    </string-array>
+
+
+</resources>

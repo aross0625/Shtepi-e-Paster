@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.set.cleaningapplicationtest">
+
+    <application
+        android:versionCode="28"
+        android:versionName="1.0"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.set.cleaningapplicationtest.Service8"></activity>
+        <activity android:name="com.set.cleaningapplicationtest.Service7" />
+        <activity android:name="com.set.cleaningapplicationtest.Service6" />
+        <activity android:name="com.set.cleaningapplicationtest.Service5" />
+        <activity android:name="com.set.cleaningapplicationtest.Service4" />
+        <activity android:name="com.set.cleaningapplicationtest.Service3" />
+        <activity android:name="com.set.cleaningapplicationtest.Service2" />
+        <activity android:name="com.set.cleaningapplicationtest.Service1" />
+        <activity android:name="com.set.cleaningapplicationtest.ReservationQuestionScreen" />
+        <activity android:name="com.set.cleaningapplicationtest.ContactUsScreen" />
+        <activity android:name="com.set.cleaningapplicationtest.FAQScreen" />
+        <activity android:name="com.set.cleaningapplicationtest.PriceListScreen" />
+        <activity android:name="com.set.cleaningapplicationtest.ServicesScreen" />
+        <activity android:name="com.set.cleaningapplicationtest.AboutUsScreen" />
+        <activity android:name="com.set.cleaningapplicationtest.ReservationScreen" />
+        <activity android:name="com.set.cleaningapplicationtest.ReservationSubmitScreen" />
+        <activity android:name="com.set.cleaningapplicationtest.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
